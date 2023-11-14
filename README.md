@@ -8,6 +8,7 @@
 
   <p align="center">
     <a href="https://raulgasanov.github.io/">View Demo</a> 
+    <br/>
     <a href="https://github.com/RaulGasanov/react-pizza/issues">Report Bug</a>
 
   </p>

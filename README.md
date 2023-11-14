@@ -4,32 +4,18 @@
 <br />
 <div align="center">
 
-<h3 align="center">React Pizza</h3>
+# 🍕 React Pizza v2 (REMASTERED) 🍕
 
-  <p align="center">
+  <p align="center" style="font-size: 24px;">
     <a href="https://raulgasanov.github.io/react-pizza/">View Demo</a> 
     <br/>
     <a href="https://github.com/RaulGasanov/react-pizza/issues">Report Bug</a>
 
   </p>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-   <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#stack">Stack</a></li>   
-    <li><a href="#instalation">Installation</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 
-# About The Project
+## 🔥 About The Project
 
 ### Welcome to the React Pizza!
 
@@ -45,7 +31,7 @@ This is a small-scale project that showcases the implementation of a pizza order
 
 <div id="stack"></div>
 
-# Tech Stack Used
+# 🛠 Tech Stack Used
 
 - **ReactJS 18**
 - **TypeScript**
@@ -63,7 +49,7 @@ This is a small-scale project that showcases the implementation of a pizza order
 
 <div id="instalation"></div>
 
-# Installation
+# 👨🏻‍💻 Installation
 
 1. Clone the repo
    ```sh
@@ -87,7 +73,7 @@ Check the [releases](https://github.com/RaulGasanov/react-pizza/releases) to see
 
 <!-- CONTACT -->
 
-# Contact
+# 📃 Contact
 
 Yehor Dreval
 

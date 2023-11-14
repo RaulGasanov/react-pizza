@@ -7,7 +7,7 @@
 <h3 align="center">React Pizza</h3>
 
   <p align="center">
-    
+    <a href="https://raulgasanov.github.io/">View Demo</a> 
     <a href="https://github.com/RaulGasanov/react-pizza/issues">Report Bug</a>
 
   </p>
@@ -20,8 +20,7 @@
    <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#stack">Stack</a></li>  
-    <li><a href="#preview">Preview</a></li> 
+    <li><a href="#stack">Stack</a></li>   
     <li><a href="#instalation">Installation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>

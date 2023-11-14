@@ -47,12 +47,18 @@ This is a small-scale project that showcases the implementation of a pizza order
 
 # Tech Stack Used
 
-- ReactJS
-- React Router
-- React Skeleton
-- React Hooks
-- TypeScript
-- SCSS-Modules / SASS(SCSS syntax) for styling
+- **ReactJS 18**
+- **TypeScript**
+- **Redux Toolkit**
+- **React Router v6**
+- **Axios + Fetch**
+- **React Hooks**
+- **Prettier**
+- CSS-Modules / SCSS
+- React Content Loader
+- React Pagination
+- Lodash.Debounce
+- Code Splitting, React Loadable, useWhyDidYouUpdate
 <!-- GETTING STARTED -->
 
 <div id="instalation"></div>
